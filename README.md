@@ -21,3 +21,5 @@ Statement:  Preparation a micro-controller for the generation of Gate-pulse a PM
 
 6. Observe the hall outputs, modulated and unmodulated gate signals in DSO.  
  
+Output waveforms on DSO are uploded in the output folder.
+
